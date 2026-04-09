@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- bean definitions here -->
+<!-- Beans are the objects managed by spring framework-->
+<!--    <bean id="user1" class = "com.pallavikri.User" scope = "prototype"></bean>-->
+
+    <bean id="user1" class = "com.pallavikri.User" autowire="byType">
+<!--        <constructor-arg type="int" value="21" />-->
+<!--        <constructor-arg type="com.pallavikri.Laptop" ref="lap1" />-->
+
+        <property name="age" value="21"></property>
+<!--        <property name="comp" ref="comp"></property>-->
+        <property name="comp">
+            <bean id = "comp" class = "com.pallavikri.Laptop" primary = "true"></bean>
+
+        </property>
+
+
+        <!--        <constructor-arg index="0" value="21" />-->
+<!--        <constructor-arg index="1" ref="lap1" />-->
+
+<!--        <constructor-arg name="age" value="21" />-->
+<!--        <constructor-arg name="lap" ref="lap1" />-->
+    </bean>
+
+<!--    <bean id = "comp" class = "com.pallavikri.Laptop" primary = "true"></bean>-->
+<!--    <bean id = "comp1" class = "com.pallavikri.Desktop" lazy-init="true"></bean>-->
+
+
+    <!--    <bean id = "lap1" class = "com.pallavikri.Laptop"></bean>-->
+
+</beans>
+
+
+
+
+

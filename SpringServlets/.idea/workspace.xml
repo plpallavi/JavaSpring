@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73813827-dfad-499a-85c3-ddf7aadd8b87" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Springdemo/untitled/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Springdemo/untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Springdemo/untitled/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Springdemo/untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Springdemo/untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Springdemo/untitled/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Springdemo/untitled/src/main/java/com/pallavikri/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Springdemo/untitled/src/test/java/com/pallavikri/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA in C++ by Luv Babbar/Lecture 2 Programs/CoditionaStatement.cppl.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA in C++ by Luv Babbar/Lecture 2 Programs/data types and variables.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA in C++ by Luv Babbar/Lecture 2 Programs/data types and variables.cpp.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA in C++ by Luv Babbar/Lecture 2 Programs/namste duniya.cpp.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA in C++ by Luv Babbar/Lecture 2 Programs/namste duniya.cpp.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA in C++ by Luv Babbar/Lecture 2 Programs/operators.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA in C++ by Luv Babbar/Lecture 2 Programs/operators.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA in C++ by Luv Babbar/Lecture 2 Programs/typecasting.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA in C++ by Luv Babbar/Lecture 2 Programs/typecasting.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dev-C++.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/myfirstprojct/src/Java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/myfirstprojct/src/Java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Microsoft Edge.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/2DArrays.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/2DArrays.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/ArithmeticOperation.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/ArithmeticOperation.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/Arrays.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/Arrays.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/DMA.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/DMA.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/DefaultParametersinFunctions.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/DefaultParametersinFunctions.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/DoWhileLoop.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/DoWhileLoop.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/ExceptionInHandling2.cpp..cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/ExceptionInHandling2.cpp..exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/Exceptionhandlinginc++.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/Exceptionhandlinginc++.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/FactorialOfaNumber.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/FactorialOfaNumber.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/FibonacciSeriesProgram.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/FibonacciSeriesProgram.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/FileHandlingincpp..cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/FileHandlingincpp..exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/ForLoop1.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/ForLoop1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/FunctionOverload.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/FunctionOverload.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/GreatestNumberProgram.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/GreatestNumberProgram.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/GreatestNumberProgramMethod2.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/GreatestNumberProgramMethod2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/HelloWorld.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/IfElse1.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/IfElse1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/IfElse2.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/IfElse2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/InliineFunctions.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/InliineFunctions.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/LeapYearProgram.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/LeapYearProgram.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/OddEvenProgram.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/OddEvenProgram.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/OperationWith Araays.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/OperationWith Araays.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/OperationsWithArrays.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/OperationsWithArrays.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/PalindromPrograms.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/PalindromPrograms.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/PassByAddress.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/PassByAddress.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/PassByReference.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/PassByReference.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/StructureProgram1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/StructureProgram1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/SwappingProgram1.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/SwappingProgram1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/SwappingProgram2.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/SwappingProgram2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/SwitchCaseStatement.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/SwitchCaseStatement.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/forLoop2.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/forLoop2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/functions.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/functions.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/helloWorld.c++.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/passbyvalue.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/passbyvalue.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/pointer.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/pointer.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/whileLoop.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C++/Simple Snippites/whileLoop.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/C/helloworld.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/HTML/html_day1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/HTML/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/HTML/index1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/python/Assignment B/quest1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/python/Assignment B/quest2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/python/Assignment B/quest3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/python/Assignment C/quest1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/python/Assignment C/quest2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/python/Assignment C/quest3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/python/Practice program/prblm1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/python/fuction program/program.5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/python/fuction program/program1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/python/fuction program/program2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/python/fuction program/program3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/python/fuction program/program4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/python/fuction program/program6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/python/program5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/python/python tutorial/apna_college.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/python/python tutorial/python_anuj_bhaiya.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/python/ques3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/python/ques4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/python/quest1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WEB Development/webdev/React/newsapp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../WEB Development/webdev/React/newsapp/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WEB Development/webdev/React/newsapp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../WEB Development/webdev/React/newsapp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WEB Development/webdev/React/newsapp/src/components/News.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../WEB Development/webdev/React/newsapp/src/components/News.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WEB Development/webdev/React/textutils/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../WEB Development/webdev/React/textutils/public/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="3BLCDOZSebdjx9WlMomByivtsTj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Pallavi kumari/Desktop/Java + Spring/SpringServlets",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73813827-dfad-499a-85c3-ddf7aadd8b87" name="Changes" comment="" />
+      <created>1774258843005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774258843005</updated>
+      <workItem from="1774258844293" duration="108000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
