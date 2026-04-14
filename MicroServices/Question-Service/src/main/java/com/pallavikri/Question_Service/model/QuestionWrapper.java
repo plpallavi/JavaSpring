@@ -1,8 +1,10 @@
-package com.pallavikri.QuizApp.Model;
+package com.pallavikri.Question_Service.model;
 
 import lombok.Data;
+import lombok.NoArgsConstructor;
 
 @Data
+@NoArgsConstructor
 public class QuestionWrapper {
 
     private int id;
