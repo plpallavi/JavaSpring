@@ -1,6 +1,5 @@
 package com.pallavikri.quiz_service.DAO;
 
-import com.pallavikri.quiz_service.model.Question;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
